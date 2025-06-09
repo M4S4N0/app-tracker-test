@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ahmadoubamba/ionic-todolist:latest
+          tags: m4s4n0/app-tracker-test:latest
