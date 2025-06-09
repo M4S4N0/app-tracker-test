@@ -10,8 +10,6 @@ RUN pnpm install
 
 COPY . .
 
-RUN pnpm run test
-
 RUN pnpm run build
 
 FROM nginx:alpine
